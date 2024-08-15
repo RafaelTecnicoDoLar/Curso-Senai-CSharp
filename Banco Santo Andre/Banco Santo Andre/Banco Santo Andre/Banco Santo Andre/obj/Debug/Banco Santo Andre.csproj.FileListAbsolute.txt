@@ -1,0 +1,14 @@
+C:\Users\aluno\source\repos\Banco Santo Andre\Banco Santo Andre\obj\Debug\Banco Santo Andre.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Banco Santo Andre\Banco Santo Andre\obj\Debug\Banco Santo Andre.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Banco Santo Andre\Banco Santo Andre\bin\Debug\Banco Santo Andre.exe.config
+C:\Users\aluno\source\repos\Banco Santo Andre\Banco Santo Andre\bin\Debug\Banco Santo Andre.exe
+C:\Users\aluno\source\repos\Banco Santo Andre\Banco Santo Andre\bin\Debug\Banco Santo Andre.pdb
+C:\Users\aluno\source\repos\Banco Santo Andre\Banco Santo Andre\obj\Debug\Banco Santo Andre.exe
+C:\Users\aluno\source\repos\Banco Santo Andre\Banco Santo Andre\obj\Debug\Banco Santo Andre.pdb
+C:\Users\aluno\Downloads\Banco Santo Andre\Banco Santo Andre\Banco Santo Andre\bin\Debug\Banco Santo Andre.exe.config
+C:\Users\aluno\Downloads\Banco Santo Andre\Banco Santo Andre\Banco Santo Andre\bin\Debug\Banco Santo Andre.exe
+C:\Users\aluno\Downloads\Banco Santo Andre\Banco Santo Andre\Banco Santo Andre\bin\Debug\Banco Santo Andre.pdb
+C:\Users\aluno\Downloads\Banco Santo Andre\Banco Santo Andre\Banco Santo Andre\obj\Debug\Banco Santo Andre.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\Banco Santo Andre\Banco Santo Andre\Banco Santo Andre\obj\Debug\Banco Santo Andre.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\Banco Santo Andre\Banco Santo Andre\Banco Santo Andre\obj\Debug\Banco Santo Andre.exe
+C:\Users\aluno\Downloads\Banco Santo Andre\Banco Santo Andre\Banco Santo Andre\obj\Debug\Banco Santo Andre.pdb

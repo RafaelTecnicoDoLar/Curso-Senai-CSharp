@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\Fazendinha Santa Luzia\Fazendinha Santa Luzia\bin\Debug\Fazendinha Santa Luzia.exe.config
+C:\Users\aluno\source\repos\Fazendinha Santa Luzia\Fazendinha Santa Luzia\bin\Debug\Fazendinha Santa Luzia.exe
+C:\Users\aluno\source\repos\Fazendinha Santa Luzia\Fazendinha Santa Luzia\bin\Debug\Fazendinha Santa Luzia.pdb
+C:\Users\aluno\source\repos\Fazendinha Santa Luzia\Fazendinha Santa Luzia\obj\Debug\Fazendinha Santa Luzia.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Fazendinha Santa Luzia\Fazendinha Santa Luzia\obj\Debug\Fazendinha Santa Luzia.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Fazendinha Santa Luzia\Fazendinha Santa Luzia\obj\Debug\Fazendinha Santa Luzia.exe
+C:\Users\aluno\source\repos\Fazendinha Santa Luzia\Fazendinha Santa Luzia\obj\Debug\Fazendinha Santa Luzia.pdb

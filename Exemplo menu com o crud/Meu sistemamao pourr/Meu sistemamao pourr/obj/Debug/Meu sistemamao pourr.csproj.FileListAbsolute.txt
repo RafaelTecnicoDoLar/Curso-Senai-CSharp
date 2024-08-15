@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Meu sistemamao pourr\Meu sistemamao pourr\bin\Debug\Meu sistemamao pourr.exe.config
+C:\Users\Usuario\source\repos\Meu sistemamao pourr\Meu sistemamao pourr\bin\Debug\Meu sistemamao pourr.exe
+C:\Users\Usuario\source\repos\Meu sistemamao pourr\Meu sistemamao pourr\bin\Debug\Meu sistemamao pourr.pdb
+C:\Users\Usuario\source\repos\Meu sistemamao pourr\Meu sistemamao pourr\obj\Debug\Meu sistemamao pourr.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Meu sistemamao pourr\Meu sistemamao pourr\obj\Debug\Meu sistemamao pourr.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Meu sistemamao pourr\Meu sistemamao pourr\obj\Debug\Meu sistemamao pourr.exe
+C:\Users\Usuario\source\repos\Meu sistemamao pourr\Meu sistemamao pourr\obj\Debug\Meu sistemamao pourr.pdb
